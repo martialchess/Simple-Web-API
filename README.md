@@ -1,6 +1,6 @@
 # Notes API 📒
 
-A simple Node.js + Express API to create, view, and delete notes.
+A simple Node.js + Express API to create, view, and delete notes. Created this project to practice REST APIs, Express and Node. 
 
 ## Features
 - GET all notes
